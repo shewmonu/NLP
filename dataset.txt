@@ -1,0 +1,370 @@
+hello 
+hi there.
+what is your name ? 
+My name is Bot , I am created by Shew , Anik ,manoj,tushar and souvik.
+how are you ? 
+I am doing great these days ,thankyou.
+In which city you live ? 
+I live in Hooghly.
+In which language you talk ?
+I mostly talk in English.
+How many Course are available in TPI/Technique Polytechnic Institute? 
+In the course there are two options diploma engineering and VIII+Vocational course. 
+Is TPI college is accrediated by NBA
+Yes.
+how to go TPI college from Burdhaman station?
+From Burdhaman station, by a train we go Hooghly, then go to tpi college.
+how to go TPI college from Naihati station?
+From naihati go to bandel,then go to hooghly, then go to tpi college.
+how to go to TPI college from Howrah station?
+From howrah station go to hooghly station,then go to tpi college.
+Where is TPI College is situated?
+The Institute is situated at Panchrokhi, Sugandha, Hooghly.
+Tell me something about tpi college
+TPI currently offers 3-years Diploma courses in various fields of engineering and technology.
+Vision of tpi college
+To be a premier Institute in pursuit of excellence in technical education and skill development committed to serve the society.
+What is the core values of tpi college
+Consistency,Commitment,Transparency,Teamwork.
+Is TPI College approved by AICTE
+Yes.
+Is TPI College affialiated to WBSCTE
+Yes.
+Is all courses is accrediated by NBA
+No, Five courses accrediated by NBA.
+How many streams are there in TPI college?
+Six.
+Which Streams are there in Tpi college?
+DCE,DME,DCST,DEE,DETCE,DSE.
+Name of the principle
+Avijit karmakar.
+Name of the coordinator
+Mr Partha Sarathi Bhattacharya.
+Who is the office superintendent
+Mr. J Sarkar.
+What is class timing in TPI college
+10 AM to 4 40 PM.
+How many classroom are there?
+20 
+How many Tutorials rooms are there?
+5
+How many laboratory rooms are there?
+25 
+How many drawing rooms are there?
+2
+How many Reprographics units?
+Seven 
+How many conference hall are there?
+1
+How many Common rooms are there?
+For Boys-One, For Girls-One.
+Seminar room no
+One
+Total Build up area
+Eleven Housand Eleven square meter.
+How many central workshps are there?
+Electrical,Electronics,Fitting,Wielding workshop.
+How many workshopd are there in science and humanities department?
+Physics,Chemistry,Language Laboratory.
+How many workshps are there in civil departmnet?
+Geotechnical lab, Applied mechanics lab,Hydraulics lab.
+How many workshops are there in mechanical department?
+Applied mechanics lab,Heat power lab,fluid mechanics lab.
+How many workshops are there in electrical department?
+Electrical machine lab,electrical measurement and control lab.
+How many workshops are there in electronics and telecommunication dep?
+Consumer Electronics lab,Electronics measurement lab,Communication Engineering lab I&II.
+How many workshops are there in cst department.
+Three computer labs.
+How many workshops are there in survey department
+Survey Store, One computer lab.
+Use of ICT lab
+Students can access various Lectures of NPTEL for clearing their concepts by ICT lab.
+Objective of ICT lab
+To provide user friendly access to e-course materials.
+Use of Language lab
+Language lab availed by 1st year students to enhance their listening writing and reading skills.
+Objective Of language lab.
+To have a good command of the language for communication purposes with clarity and accuracy.
+How many civil engineering books in the library.
+2847
+How many Computer Science & Technology books in the library.
+2449
+How many survey engineering books in the library.
+999
+How many Electronics & Telecommunication engineering books in the library
+2017
+How many Science & Humanities books in the library
+4115
+Total number of text books in the library
+thirteen thousand seven hundred twenty four.
+Total number reference books in the library
+two thousand seventy four.
+Total number of Title in the library
+one Housand Seven Hondred eighty six.
+Total number of journals
+Twenty-one
+Is Free WiFi available in tpi college
+Yes.
+Is there are gym facility in the college
+yes there is indoor gym facility in college.
+Is there are any medical facility in the college
+yes there is a medical unit inside the college.
+Any outdoor gaming facility in the college
+yes there are many games like football,cricket,volleyball.
+Indoor gaming options
+yes, indoor games like carrom and chess are there.
+Any Hostel facility in the college
+Yes,There are two boys hostel and one girl hostel.
+Is there any play ground in the college
+Yes.
+Is there any remedial classes facility?
+Yes,after the normal classes.
+Which students can get admission?
+Students will be allotted by WBSCTE are allowed for counseling on the basis of Rank obtained in JEXPO.
+What are subjects examined for admission?
+Math,Physics,Chemistry.
+Eligibility criteria for students for get admission
+Passed 10th standard from any recognized Board
+1st semester fees for students through jexpo counselling
+29,266 or 24266.
+From second semester fees for students through jexpo counselling*
+16,000.
+1st semester fees for students through management quota
+35,266 or 30,266.
+From second semester fees for students through managemnt quota
+22,000.
+1st semester fees for students through tfw quota
+20,266 or 15,266.
+From second semester fees for students through tfw quota
+7000.
+3rd semester fees for students through voclet counselling
+29,020 or 24,266.
+From fourth semester fees for students through voclet counselling
+16,000.
+Total seats in electrical engineering in 1st year
+60.
+Total seats in electrical engineering through voclet in 2nd year
+6
+Total seats in electronics and telecommunication engineering in 1st year
+60
+Total seats in electronics and telecommunication engineering through voclet in 2nd year
+6
+Total seats in mechanical engineering in 1st year
+60
+Total seats in mechanical engineering through voclet in 2nd year
+6
+Total seats for computer science and technology in 1st year
+60
+Total seats in computer science and technology through voclet in 2nd year
+6
+Total seats in civil engineering in 1st year
+90
+Total seats in civil engineering through voclet in 2nd year
+9
+Total seats in survey engineering in 1st year
+30
+Total seats in survey engineering through voclet in 2nd year
+3
+programme outcomes for civil engineering course
+Problem analysis,Project Management,Engineering Tools, Experimentation and Testing.
+Vision of civil departement.
+To become excellent in the field of Civil Engineering in developing highly competent technically skilled manpower.
+mechanical department vision
+In Mechanical Engineering to impart technical & professional skills to cater industrial requirements.
+Electrical department vision
+To become a nationally recognized centre of excellence in Electrical Engineering.
+survey department vision
+To sculpt competent and trained students of tomorrow with the advanced skills and knowledge in the field of Survey Engineering.
+electronics and telecommunication departemnt vision
+In Electronics and Telecommunication engineering for development of technical man power capable of facing new challenges.
+vision of computer science science department
+To be a dynamic and efficient  department of Computer Science & Technology providing quality education and progressive atmosphere.
+science and humanities department vision 
+Our vision is to be an excellent learning centre of fundamentals of engineering principles.
+The goal of training and placement department
+It is to provide relevant training and thus prepare the students to face Campus Recruitment opportunities successfully.
+Advantages for companies in campus recruitment
+Talent pool,proper slection process,manpower planning,overseas placements.
+Advantages for colleges in campus recruitment
+Reputation and better Admission,Industry-Institute interaction.
+Disadvantage for college in recruitment
+Experience candidates are not available.
+Director of training and placement
+JS Dhar.
+Why recruit at tpi?
+Disciplines,Projects,Infrastructure,Preliminary Screening.
+which college get first nba accrediation?
+TPI college get first nba accrediation in electrical department.
+Functions of T&P cell
+CDTP,Industrail training, Free jelet tutorials, back office operations.
+Academic bridge programme for voclet students
+Its an education programme specifically designedfor a student to gain some knowledge in 1st and 2nd semesters.
+Which subject are in the abp?
+Math,Emech,SOM,Computer Application.
+When the abp programme conduct?
+The programme will commence after the admission and the class hours will be from 4-15 p.m. to 6-00 p.m. daily during Monday to Friday.
+Time span of abp classes
+the duration of abp will be one month.
+Fees of abp programme.
+No extra fees will be paid during this programme.
+Major companies conducted campus drive in 2021.
+LTI,capgemini,Wipro,Bajaj,Anand, Yazaki.
+Major companies conducted campus drive in Twenty-twenty.
+L&T,LTI,Motovolt,Anmol,JBM,Bajaj,KEC.
+Major companies came in Twenty-Nineteen
+aforeserve,L&T,LTI, Rashmi LED, JBM GROUP,CENTUM.
+Major companies came in Twenty-Eighteen
+L&T,GALACON,RashmiLED,JBM GROUP,UDS,POLYHOSE.
+Major companies came in Twenty-Seventeen.
+Tata projects,L&T,essel, Tenneco,SIGMA,CENTUM.
+Major companies conducted campus drive in Twenty-Sixteen
+L&T,KEC,tega,CEAT,CENTUM,Grind Master.
+Major companies came in Twenty-fifteen
+L&T,ACC,IBM,KEC, Tech mahindra, Sanmar.
+No of student selected in campus drive for civil in 2020.
+36
+Total no of jobs offered to students for civil in 2020.
+42
+Highest salary package for civil in 2020.
+2.11 lakh
+Average salary package for civil 
+1.24 lakh
+No of student selected in campus drive for mechanical in 2020.
+58
+Total no of jobs offered to students for mechanical in 2020.
+87
+Highest salary package for mechanical in 2020
+2.11 lakh
+Average salary package for mechanical in 2020
+1.54 lakh.
+No of student selected in campus drive for electrical in 2020.
+46
+Total no of jobs offered to students for elctrical in 2020.
+59
+Highest salary package for electrical in 2020
+2.11 lakh
+Average salary package for electrical 
+1.49 lakh.
+No of student selected in campus drive for survey in 2020.
+15
+Total no of jobs offered to students for survey in 2020.
+15
+Highest salary package for survey in 2020
+1.42 lakh
+Average salary package for survey 
+1.10 lakh.
+No of student selected in campus drive for electronics in 2020.
+36
+Total no of jobs offered to students for electronics in 2020.
+49
+Highest salary package for electronics 
+2 lakh
+Average salary package for electronics 
+1.49 lakh
+No of student selected in campus drive for computer science in 2020.
+7
+Total no of jobs offered to students for computer science in 2020.
+7
+Highest salary package for computer science in 2020
+2 lakh
+Average salary package for computer science 
+1.35 lakh.
+No of student selected in campus drive for civil in twenty-nineteen.
+66
+Total no of jobs offered to students for civil in twenty-ninteen.
+77
+Highest salary package for civil in twenty-nineteen.
+2.40 lakh
+Average salary package for civil in twenty-nineteen
+1.20 lakh
+No of student selected in campus drive for mechanical in twenty-nineteen.
+58
+Total no of jobs offered to students for mechanical in twenty-nineteen
+72
+Highest salary package for mechanical in twenty-ninteen
+1.90 lakh
+Average salary package for mechanical in twenty-ninteen
+1.45 lakh.
+No of student selected in campus drive for electrical in 2019.
+31
+Total no of jobs offered to students for elctrical in 2019.
+44
+Highest salary package for electrical in 2019
+1.90 lakh
+Average salary package for electrical in 2019
+1.40 lakh.
+No of student selected in campus drive for survey in 2019.
+32
+Total no of jobs offered to students for survey in 2019.
+49
+Highest salary package for survey in 2019
+2.40 lakh
+Average salary package for survey in 2019
+1.20 lakh.
+No of student selected in campus drive for electronics in 2019.
+24
+Total no of jobs offered to students for electronics in 2019.
+33
+Highest salary package for electronics in 2019
+1.80 lakh
+Average salary package for electronics in 2019
+1.20 lakh.
+No of student selected in campus drive for computer science in 2019
+12
+Total no of jobs offered to students for computer science in 2019
+13
+Highest salary package for computer science in 2019
+2.20 lakh
+Average salary package for computer science in 2019
+1.20 lakh.
+Is there any jelet preparation in this college.
+TPI organizes free jelet classes throughout the six semester for students who has ambition for higher studies
+Student of year 2019
+Sandipan Mukherjee,DCE.
+Student of yaer 2018
+Sourav khanra,DCE.
+Student of year Twenty-seventeen
+Priyanka Dutta,DCE.
+Student of year twenty-sixteen
+DebAditya Kundu,DME.
+Student of Year twenty-fifteen
+Debarthi Saha,DCST.
+Highest percanatge of marks for mechanical in 2019
+84.2
+Highest percanatge of marks for civil in 2019
+90.3
+Highest percanatge of marks for electrical in 2019
+88.5
+Highest percanatge of marks for survey in 2019
+88.8
+Highest percanatge of marks for computer scinece in 2019
+83.8
+Highest percanatge of marks for etc in 2019
+88.1
+2020 jelet rank holders name from tpi college
+Somenath bhattarcharya,Rima Bar, Akash Singha Roy,Nilanka Shekhar Roy.
+No of Mechanical engineering books 
+1497
+ No of Electrical  engineering books 
+1444
+twenty-nineteen jelet rank holders name from tpi college
+Ritosam pal, Bhagyasree banerjee,Sourav Ghosh, Sanju Mondal.
+Twenty-eighteen jelet rank holders name from tpi college
+Manik Saha,Chinmoy Hazra,Shayan Kumar,Keya karmakar.
+Twenty-seventeen jelet rank holders name from tpi college
+Kushal Goai,Subhajit Sinha,Susmita patra.
+How to start career with tpi
+Interested candidates duly qualified and eligible as prescribed in AICTE norms may E-Mail their Bio-Data.
+Aims of the college
+Build and sustain a strong belongingness to Institute & students.
+Is elibrary system is there in the college.
+Yes, in our website there is an e-library.
+Is fest happen in this college.
+Yes, every  year fest happens.
+
+
+
+
+
+
